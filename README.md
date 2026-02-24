@@ -6,3 +6,6 @@ https://www.manopt.org/downloads.html
 
 HiroyukiSatoLab (Hiroyuki Sato)  
 https://github.com/HiroyukiSatoLab
+
+Home · Manopt.jl  
+https://manoptjl.org/stable/
