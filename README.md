@@ -1,4 +1,4 @@
-# Manopt-GNUOctave
+# Manopt-libs
 
 ## references  
 Manopt - Downloads  
